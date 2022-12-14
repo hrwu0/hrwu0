@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AIST2602 project
-- 🌱 I’m currently learning AIST
+- 🔭 I’m currently working on finals...
+- 🌱 I’m currently learning Artificial Intelligence
 <!--
 **hrwu0/hrwu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
